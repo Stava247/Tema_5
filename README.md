@@ -1,4 +1,4 @@
-Тема_6
+Тема_5
 Работа с графикой в Java
 
 ![screenshot](screenshot.png)
