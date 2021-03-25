@@ -1,12 +1,12 @@
 Тема_6
 Работа с графикой в Java
 
-![srcreenshot](screenshot.jpg)
+![screenshot](1.png)
 
-![srcreenshot](1.jpg)
+![screenshot](2.png)
 
-![srcreenshot](2.jpg)
 
-![srcreenshot](3.jpg)
+![screenshot](3.png)
 
-![srcreenshot](4.jpg)
+
+![screenshot](4.png)
