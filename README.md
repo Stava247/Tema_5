@@ -1,6 +1,8 @@
 Тема_6
 Работа с графикой в Java
 
+![screenshot](screenshot.png)
+
 ![screenshot](1.png)
 
 ![screenshot](2.png)
